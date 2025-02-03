@@ -1,0 +1,8 @@
+{
+  "name": "Bar Code Generator",
+  "theme_color": "#000000",
+  "background_color": "#000000",
+  "short_name": "bar_code_gen",
+  "id": "bar_code_gen",
+  "description": "Bar code generator"
+}
